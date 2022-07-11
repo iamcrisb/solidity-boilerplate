@@ -5,10 +5,9 @@ A boilerplate for quick-starting a [solidity](https://docs.soliditylang.org/) pr
 ## Prerequisites
 
 In order to use the project you will need to have installed [nodejs](https://nodejs.org/en/).
+Configure your environment by creating a .env file (check the .env.example file). You can use any Blockchain API's provider that you want, I recommend [alchemy](https://www.alchemy.com/).
 
 ## Install
-
-Configure your environment by creating a .env file (check the .env.example file). You can use any Blockchain API's provider that you want, I recommend [alchemy](https://www.alchemy.com/).
 
 ```bash
 npm install
