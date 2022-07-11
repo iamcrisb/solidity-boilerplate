@@ -1,0 +1,28 @@
+{
+  "name": "solidity-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for quickly bootstrapping your solidity project using hardhat",
+  "main": "hardhat.config.ts",
+  "scripts": {
+    "test": "TS_NODE_TRANSPILE_ONLY=1 npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianbuta/solidity-boilerplate.git"
+  },
+  "keywords": [
+    "hardhat",
+    "typescript",
+    "solidity"
+  ],
+  "author": "cristian.daniel.buta@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianbuta/solidity-boilerplate/issues"
+  },
+  "homepage": "https://github.com/cristianbuta/solidity-boilerplate#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "dotenv": "^16.0.1"
+  }
+}
