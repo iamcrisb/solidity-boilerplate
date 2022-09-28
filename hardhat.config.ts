@@ -1,5 +1,5 @@
-import { config as loadEnvVariables } from "dotenv";
 import "@nomicfoundation/hardhat-toolbox";
+import { config as loadEnvVariables } from "dotenv";
 import { HardhatUserConfig } from "hardhat/config";
 
 loadEnvVariables();

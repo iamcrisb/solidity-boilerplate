@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/cristianbuta/solidity-boilerplate#readme",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
-    "dotenv": "^16.0.1"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "dotenv": "^16.0.2"
   }
 }
