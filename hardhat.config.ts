@@ -12,7 +12,7 @@ const config: HardhatUserConfig = {
     sources: "./src/contracts",
     tests: "./src/tests",
   },
-  solidity: "0.8.15",
+  solidity: "0.8.17",
   networks: {
     goerli: {
       url: `https://eth-goerli.alchemyapi.io/v2/${ALCHEMY_GOERLI_API_KEY}`,
